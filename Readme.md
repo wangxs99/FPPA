@@ -6,7 +6,7 @@ Extraction Code: w7ey
 DDWS: https://pan.baidu.com/s/1xDax-TrL2PaWbMpnYcMUOA
 Extraction Code: prxa
 
-The source code and the dataset DroneSDG will be publicly released upon paper acceptance.
+The source code and the DroneSDG dataset will be publicly released upon paper acceptance.
 
 # References
 [1] A. Wu and C. Deng, “Single-Domain Generalized Object Detection in Urban Scene via Cyclic-Disentangled Self-Distillation,” in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), 2022, pp. 837-846.
